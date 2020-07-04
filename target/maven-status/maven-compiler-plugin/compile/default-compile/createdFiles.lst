@@ -1,0 +1,5 @@
+commonUtil\TestHelper.class
+com\hackerRankApiTest\com\restApiTest\Application.class
+Model\Category.class
+Model\Pet.class
+Model\Tags.class
